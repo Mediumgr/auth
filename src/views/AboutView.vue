@@ -29,7 +29,7 @@
           <div class="flex gap-3 mt-1">
             <router-link to="/">
               <CustomButton
-                label="вернуть на главную страницу"
+                label="вернуться на главную страницу"
                 link
               ></CustomButton>
             </router-link>
